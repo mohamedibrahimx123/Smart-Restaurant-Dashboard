@@ -1140,7 +1140,7 @@ body.dark #closeCart i {
   border-radius: 20px;
 }
 
-.top-spender-row td {
+body.dark .top-spender-row td {
   background: #1e293b;
 }
 
